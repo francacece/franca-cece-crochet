@@ -234,10 +234,10 @@ const PRODUCTS = [
     shortDescription: "A compact everyday bag with a structured shape.",
     description: "Room for your phone, keys and essentials, in a neat crochet stitch that keeps its shape.\n\nChoose your color and we will make it for you.",
     images: [
-      "images/products/Crochet Bags/Bow Bag 1.jpeg",
-      "images/products/Crochet Bags/Bow Bag 2.jpeg",
-      "images/products/Crochet Bags/Bow Bag 3.jpeg",
-      "images/products/Crochet Bags/Bow Bag 4.jpeg"
+      "images/products/Crochet Bags/bow bag 1.jpeg",
+      "images/products/Crochet Bags/bow bag 2.jpeg",
+      "images/products/Crochet Bags/bow bag 3.jpeg",
+      "images/products/Crochet Bags/bow bag 4.jpeg"
     ],
     colors: ["Blue", "baby pink", "Butter Yellow"],
     sizes: [],
