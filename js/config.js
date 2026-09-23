@@ -17,9 +17,8 @@ const SITE = {
      Nigeria example: 0803 123 4567  →  "2348031234567"
      Leave any link as "" (empty quotes) and it disappears from the site. */
   whatsappNumber: "2348162515402",                        // ✏️ CHANGE THIS
-  instagram:      "https://www.instagram.com/",           // ✏️ paste your full Instagram link
-  tiktok:         "https://www.tiktok.com/",              // ✏️ paste your full TikTok link
-  email:          "youremail@example.com",                // ✏️ CHANGE THIS
+  instagram:      "https://www.instagram.com/francaceceofficial?stkn=MWRxcWV3aTBzYTA0Ng==",           // ✏️ paste your full Instagram link
+    email:          "francacececrochet@gmail.com",          // ✏️ CHANGE THIS
 
   brandName: "Franca Cece Crochet",
 
