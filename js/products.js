@@ -175,7 +175,7 @@ const PRODUCTS = [
     pricePrefix: "",
     shortDescription: "A soft crochet scrunchie that holds without tugging.",
     description: "A textured crochet scrunchie for everyday wear, gentle on the hair and easy to style.",
-    images: ["images/products/Scrunchies/Crochet Scrunchie 3.jpeg"],
+    images: ["images/products/Scrunchies/Crochet scrunchie 3.jpeg"],
     care: "Hand wash gently in cool water and lay flat to dry.",
     note: "",
     whatsappMessage: ""
@@ -195,7 +195,7 @@ const PRODUCTS = [
     pricePrefix: "",
     shortDescription: "A set of small crochet bow clips.",
     description: "Small crochet bows on secure clips, made to be worn together or on their own.",
-    images: ["images/products/Hair Accessories/Baby Pink Crochet Hair Bow.jpeg"],
+    images: ["images/products/Hair Accessories/baby pink crochet hair bow.jpeg"],
     sizes: [],
     care: "Spot clean gently and let air dry.",
     note: "",
@@ -214,7 +214,7 @@ const PRODUCTS = [
     pricePrefix: "",
     shortDescription: "A set of small crochet bow clips.",
     description: "Small crochet bows on secure clips, made to be worn together or on their own.",
-    images: ["images/products/Hair Accessories/Ribbon Hair Clip.jpeg"],
+    images: ["images/products/Hair Accessories/ribbon hair clip.jpeg"],
     sizes: [],
     care: "Spot clean gently and let air dry.",
     note: "",
@@ -259,9 +259,9 @@ const PRODUCTS = [
     shortDescription: "A compact everyday bag with a structured shape.",
     description: "Room for your phone, keys and essentials, in a neat crochet stitch that keeps its shape.\n\nChoose your color and we will make it for you.",
     images: [
-      "images/products/Crochet Bags/Donut Bag 1.jpeg",
-      "images/products/Crochet Bags/Donut Bag 2.jpeg",
-      "images/products/Crochet Bags/Donut Bag 3.jpeg"
+      "images/products/Crochet Bags/Donut bag 1.jpeg",
+      "images/products/Crochet Bags/Donut bag 2.jpeg",
+      "images/products/Crochet Bags/Donut bag 3.jpeg"
     ],
     colors: ["Blue", "baby pink", "Butter Yellow"],
     sizes: [],
@@ -283,8 +283,8 @@ const PRODUCTS = [
     shortDescription: "A compact everyday bag with a structured shape.",
     description: "Room for your phone, keys and essentials, in a neat crochet stitch that keeps its shape.\n\nChoose your color and we will make it for you.",
     images: [
-      "images/products/Crochet Bags/Phone Bag 1.jpeg",
-      "images/products/Crochet Bags/Phone Bag 2.jpeg"
+      "images/products/Crochet Bags/phone bag 1.jpeg",
+      "images/products/Crochet Bags/phone bag 2.jpeg"
     ],
     sizes: [],
     care: "Spot clean only. Store stuffed lightly to keep its shape.",
